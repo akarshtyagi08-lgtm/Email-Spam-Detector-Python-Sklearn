@@ -1,7 +1,10 @@
 # Email-Spam-Detector-Python-Sklearn
 This is a ML (Machine Learning) model created using Sklearn, this model Detects of the email is Ham/Not Spam [0], Phishing [1], and Spam [2]. The model is trained on 292,360 rows and tested on 73,090 rows, where it reached a high accuracy of 95%.
 
-**,sa  Dataset** Used:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+**Dataset** Used:
 ```
 https://www.kaggle.com/datasets/akshatsharma2/the-biggest-spam-ham-phish-email-dataset-300000?hl=en-IN
 ```
@@ -16,10 +19,10 @@ Ham/Not Spam [0]
 ```
 
 # **Libraries** used in the project
-1. numpy
-2. pandas
-3. sklearn
-4. joblib
+1. numpy ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+2. pandas ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+3. sklearn ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+4. joblib ![Joblib](https://img.shields.io/badge/Joblib-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 
  NOTE:- You only need **joblib** for loading the model, since rest were for training and Testing purpose, which is already done.
 
