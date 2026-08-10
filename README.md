@@ -20,10 +20,11 @@ Ham/Not Spam [0]
 
 # **Libraries** used in the project
 
-1. sklearn (Scikit-learn)
-2. pandas
-3. numpy
-4. joblib
+1. sklearn 1.9.0 (Scikit-learn)
+2. pandas 3.0.5
+3. numpy 2.4.4
+4. joblib 1.5.3
+5. python 3.14.6 (This is a language)
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
@@ -33,7 +34,9 @@ Ham/Not Spam [0]
 
 ![Joblib](https://img.shields.io/badge/Joblib-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 
- NOTE:- You only need **joblib** for loading the model, since rest were for training and Testing purpose, which is already done.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+ NOTE:- You only need **joblib** and **python** for loading the model, since rest were for training and Testing purpose, which is already done.
 
 # **Classification Report** and **Confusion Matrix**
 ```
